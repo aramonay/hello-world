@@ -1,2 +1,5 @@
 # hello-world
-I'm exploring.
+
+Hello everyone!
+
+I'm Aramonay, i love eating and exploring everything.
